@@ -32,6 +32,9 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
+This Website Gives you various features of Converting text to LowerCase and UpperCase.It also give feature to Inverse Text and clear the text. The Main Attractive Feature is it has Dark Mode.
+It was my first react app when I started to learn react.
+Thank You to CodeWithHarry for the videos from where I started Learning React.
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
